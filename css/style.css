@@ -1,0 +1,27 @@
+
+.navS{
+display: flex;
+justify-content: space-around;
+}
+.logo{
+  height: 80px;
+  width: 120px;
+}
+.bigimg{
+  height: 400px;
+}
+.text-block {
+  position: absolute;
+  bottom: 100px;
+  left: 0;
+  width: 100%;
+  color: white;
+}
+blockquote {
+  min-height: 5em;
+  padding   : 1em 4em;
+  font      : 1em/150% sans-serif;
+  position  : relative;
+  background-color: lightgoldenrodyellow;
+  width: 50%;
+}
